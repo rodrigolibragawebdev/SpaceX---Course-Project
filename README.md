@@ -6,7 +6,7 @@ This is a final bootstrap module project  at One Bit Code Fullstack course.
 
 Fell free to contact me:
 
-E-mail: rodrigolibragawebdev@gmail.com
+E-mail: rodrigolibragawebdev@gmail.com <br>
 Phone: 55 51984724614 (Brazil)
 
 ----
@@ -22,5 +22,5 @@ Esse foi o projeto final do módulo de boostrap, curso da One Bit Code.
 
 Caso desejar, entre em contato:
 
-E-mail: rodrigolibragawebdev@gmail.com
+E-mail: rodrigolibragawebdev@gmail.com <br>
 Celular: 55 51984724614
